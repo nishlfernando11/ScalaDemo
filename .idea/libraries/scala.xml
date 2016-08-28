@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="scala">
+    <CLASSES>
+      <root url="file://C:/Program Files (x86)/scala" />
+      <root url="jar://C:/Program Files (x86)/scala/lib/akka-actors.jar!/" />
+      <root url="jar://C:/Program Files (x86)/scala/lib/scala-compiler.jar!/" />
+      <root url="jar://C:/Program Files (x86)/scala/lib/scala-library.jar!/" />
+      <root url="jar://C:/Program Files (x86)/scala/lib/scala-reflect.jar!/" />
+      <root url="jar://C:/Program Files (x86)/scala/lib/scala-swing.jar!/" />
+      <root url="jar://C:/Program Files (x86)/scala/lib/typesafe-config.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
